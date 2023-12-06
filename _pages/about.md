@@ -18,7 +18,7 @@ Education
 ======
 Bachelor of Science degree in statistics from School of Mathematics at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024).
 
-Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2024).
+Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023).
 
 Other Information
 ======
