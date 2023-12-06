@@ -12,6 +12,8 @@ My name is Houshi He, currently pursuing a Bachelor's degree in Statistics.
 
 My passion lies in the fields of data mining and data science, and I am also interested in statistical modelling and causal inference.
 
+I used to work at Tencent and General Eletric as an intern.
+
 Education
 ======
 Bachelor of Science degree in statistics from School of Mathematics at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024).
