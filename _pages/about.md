@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-My name is Houshi He, currently pursuing a Bachelor's degree in Statistics. My passion lies in the fields of data mining and data science, and I am also interested in statistical modelling and causal inference.
+My name is Houshi He, currently pursuing a Bachelor's degree in Statistics. 
+
+My passion lies in the fields of data mining and data science, and I am also interested in statistical modelling and causal inference.
 
 Education
 ======
 Bachelor of Science degree in statistics from School of Mathematics at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024).
+
 Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2024).
 
 Other Information
 ======
-You can find more information about me from my CV, and you can contact me at: [stat.houshi@gmail.com](stat.houshi@gmail.com).
+You can find more from my CV, and you can contact me at: [stat.houshi@gmail.com](stat.houshi@gmail.com).
