@@ -17,4 +17,4 @@ Research Assistant at [University of Victoria](https://www.uvic.ca/) under the s
 
 Other Information
 ======
-You can find more information about me from my CV, and you can contact me at: stat.houshi@gmail.com.
+You can find more information about me from my CV, and you can contact me at: [stat.houshi@gmail.com](stat.houshi@gmail.com).
