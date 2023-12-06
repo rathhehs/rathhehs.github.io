@@ -12,7 +12,7 @@ My name is Houshi He, currently pursuing a Bachelor's degree in Statistics.
 
 My passion lies in the fields of data mining and data science, and I am also interested in statistical modelling and causal inference.
 
-I used to work at [Tencent]{https://www.tencent.com/en-us/) and [General Eletric](https://www.ge.com/) as an intern.
+I used to work at [Tencent](https://www.tencent.com/en-us/) and [General Eletric](https://www.ge.com/) as an intern.
 
 Education
 ======
