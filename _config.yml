@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  [stat.houshi@gmail.com]"stat.houshi@gmail.com"
+  email            :  # [stat.houshi@gmail.com]"stat.houshi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/rathhehs?tab=repositories"
+  github           : "https://github.com/rathhehs"
   google_plus      :
   keybase          :
   instagram        :
