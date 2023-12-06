@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Houshi He"
   avatar           : "profile.png"
-  bio              : "BSc Student in Statistics at Jilin University"
+  bio              : "BSc Student in Statistics at Jilin University."
   location         : "Changchun, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            :  "stat.houshi@gmail.com"
+  email            :  [stat.houshi@gmail.com]"stat.houshi@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
