@@ -71,7 +71,7 @@ Relevant Information
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/Ge1.jpg" 
+        src = "../images/GE1.jpg" 
         width = 90%">
     <br>
     <div style = "
@@ -80,7 +80,7 @@ Relevant Information
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Online Meeting under Pandemic
+        Online Meeting
     </div>
     <p> </p>
 </center>
