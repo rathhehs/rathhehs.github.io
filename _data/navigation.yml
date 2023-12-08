@@ -6,6 +6,15 @@ main:
   - title: "Professional"
     url: /professional/
 
+  - title: "Workshop"
+    url: /workshop/
+
+  - title: "Travel"
+    url: /travel/
+
+  - title: "Miscellaneous"
+    url: /miscellaneous/
+    
 #  - title: "Publications"
 #    url: /publications/
 
