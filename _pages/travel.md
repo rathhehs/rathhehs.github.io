@@ -20,7 +20,7 @@ My parents have a great passion for travel and have been taking me on trips sinc
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Victoria, Canada (Druing Mitacs Globalink Research Internship (Full-Funded))
+        Victoria, Canada (During Mitacs Globalink Research Internship (Full-Funded))
     </div>
     <p> </p>
 </center>
@@ -38,7 +38,7 @@ My parents have a great passion for travel and have been taking me on trips sinc
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Vancouver, Canada (Druing Mitacs Globalink Research Internship (Full-Funded))
+        Vancouver, Canada (During Mitacs Globalink Research Internship (Full-Funded))
     </div>
     <p> </p>
 </center>
@@ -56,7 +56,7 @@ My parents have a great passion for travel and have been taking me on trips sinc
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Banff National Park, Canada (Druing Mitacs Globalink Research Internship (Full-Funded))
+        Banff National Park, Canada (During Mitacs Globalink Research Internship (Full-Funded))
     </div>
     <p> </p>
 </center>
@@ -74,7 +74,7 @@ My parents have a great passion for travel and have been taking me on trips sinc
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Hong Kong, China (Druing Science Summer Camp (Full-Funded))
+        Hong Kong, China (During Science Summer Camp (Full-Funded))
     </div>
     <p> </p>
 </center>
