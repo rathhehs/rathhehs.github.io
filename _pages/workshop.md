@@ -23,3 +23,57 @@ The signature event of the College of Science attracted more than **1,300** enth
 
 Relevant Information
 -------
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/hk1.jpg" 
+        width = "60%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Victoria Harbour in Hong Kong
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/hk2.jpg" 
+        width = "60%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Tai Ping Shan in Hong Kong
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/hk3.jpg" 
+        width = "60%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Friends from Different Culture
+    </div>
+    <p> </p>
+</center>
