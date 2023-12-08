@@ -31,8 +31,8 @@ Relevant Information
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../files/riding/ITT record.jpg" 
-        width = "40%">
+        src = "../images/Tencent1.jpg" 
+        width = "60%">
     <br>
     <div style = "
         color: orange;
@@ -40,7 +40,47 @@ Relevant Information
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Office Building Photo"
+        Office Building
+    </div>
+    <p> </p>
+</center>
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/Tencent2.jpg" 
+        width = 60%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Work Badge
+    </div>
+    <p> </p>
+</center>
+
+2. Memories at GE
+
+    [**Project Results (Public)**](../files/GE2.pdf)
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/Ge1.jpg" 
+        width = 90%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Online Meeting under Pandemic
     </div>
     <p> </p>
 </center>
