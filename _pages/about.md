@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Houshi He, currently pursuing a Bachelor's degree in Statisticsat at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024). My passion lies in the fields of data mining and data science, and I am also interested in statistical modelling and causal inference. I used to work at [Tencent](https://www.tencent.com/en-us/) and [General Eletric](https://www.ge.com/) as an intern.
+My name is Houshi He, currently pursuing a Bachelor's degree in Statisticsat at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024). \
+My passion lies in the fields of data mining and data science, and I am also interested in statistical modelling and causal inference. \
+I used to work at [Tencent](https://www.tencent.com/en-us/) and [General Eletric](https://www.ge.com/) as an intern.
 
 
 I am a passionate traveler and sports enthusiast, deeply in love with football, basketball, and F1. Additionaly, my heart beats to the the melodies of [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) and [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql). 
