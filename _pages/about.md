@@ -28,7 +28,7 @@ Research Assistant at [University of Victoria](https://www.uvic.ca/) under the s
 
 Other Information
 ======
-I am a passionate traveler and sports enthusiast, deeply in love with football, basketball, and F1. Additionaly, I particularly enjoy the music of [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) and [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql). 
+I am a passionate traveler and sports enthusiast, deeply in love with football, basketball, and F1. Additionaly, I love the music of [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) and [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql). 
 
 
 Motto
