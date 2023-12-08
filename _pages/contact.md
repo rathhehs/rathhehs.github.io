@@ -9,7 +9,7 @@ author_profile: true
 
 **Email**: stat.houshi@gmail.com 
 
-**Mailing**: \
+**Mailing Address**: \
 Houshi He \
 School of Mathematics\
 Jilin University\
