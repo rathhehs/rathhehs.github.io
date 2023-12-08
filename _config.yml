@@ -84,8 +84,7 @@ author:
   avatar           : "3.jpg"
   bio              : "Undergraduate Student"
   location         : "Changchun, China"
-  location         : "Jilin University"
-  employer         :
+  employer         : "Jilin University"
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
   email            :  # [stat.houshi@gmail.com]"stat.houshi@gmail.com"
