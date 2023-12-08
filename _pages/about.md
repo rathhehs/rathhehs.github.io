@@ -22,4 +22,6 @@ Other Information
 ====== -->
 You can find more from my [CV](http://rathhehs.github.io/files/CV_Houshi_He.pdf), and you can contact me at: [stat.houshi@gmail.com](stat.houshi@gmail.com).
 
-Motto: Grace under pressure.
+Motto
+======
+Grace under pressure.
