@@ -31,11 +31,11 @@ Or watch the things you gave your life to, broken,\
 If you can make one heap of all your winnings\
 &emsp;And risk it on one turn of pitch-and-toss,\
 And lose, and start again at your beginnings\
-&emsp;And never breathe a word about your loss;
+&emsp;And never breathe a word about your loss; \
 If you can force your heart and nerve and sinew\
 &emsp;To serve your turn long after they are gone,\
 And so hold on when there is nothing in you\
-&emsp;Except the Will which says to them: ‘Hold on!’\
+&emsp;Except the Will which says to them: ‘Hold on!’
 
 If you can talk with crowds and keep your virtue,\
 &emsp;Or walk with Kings—nor lose the common touch,\
