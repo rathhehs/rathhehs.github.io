@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About me
+======
+
 My name is Houshi He, currently pursuing a Bachelor's degree in Statisticsat at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024). 
 
 My passion lies in the fields of data mining and data science, and I am also interested in statistical modelling and causal inference. 
