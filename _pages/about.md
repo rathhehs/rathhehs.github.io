@@ -15,12 +15,17 @@ My passion lies in the fields of data mining and data science, and I am also int
 
 I used to work at [Tencent](https://www.tencent.com/en-us/) and [General Eletric](https://www.ge.com/) as an intern.
 
-Education
+
+I am a passionate traveler and sports enthusiast, deeply in love with football, basketball, and F1. Additionaly, my heart beats to the the melodies of [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) and [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql). 
+
+Motto: Grace under pressure.
+
+<!-- Education
 ======
 Bachelor of Science degree in statistics from School of Mathematics at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024).
 
 Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023).
 
 Other Information
-======
+====== -->
 You can find more from my [CV](http://rathhehs.github.io/files/CV_Houshi_He.pdf), and you can contact me at: [stat.houshi@gmail.com](stat.houshi@gmail.com).
