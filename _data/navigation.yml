@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Academic"
-    url: /cv/
+    url: /academic/
 
   - title: "Professional"
-    url: /cv/
+    url: /professional/
 
 #  - title: "Publications"
 #    url: /publications/
