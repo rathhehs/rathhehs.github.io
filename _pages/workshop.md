@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**1. Red Bird Online Challenge Camp** ([The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/))
+**1. [Red Bird Online Challenge Camp](https://www.hkust-gz.edu.cn/academics/teaching-and-learning-innovation/red-bird-challenge-camp/)** ([The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/))
 
  
 
@@ -15,7 +15,7 @@ redirect_from:
 
  [**Project Results (Public)**](../files/hkustgz.pdf)
 
-**2. Science Summer Camp** (Full funded by [City University of Hong Kong](https://www.cityu.edu.hk/))
+**2. [Science Summer Camp](https://www.cityu.edu.hk/csci/academic-programmes/research-degree-programmes/science-summer-camp-2023)** (Full funded by [City University of Hong Kong](https://www.cityu.edu.hk/))
 
 The signature event of the College of Science attracted more than **1,300** enthusiastic applicants across all the continents, of which **52** campers who studied in Mainland China, Germany, Russia, Singapore, Vietnam, the UK, and Hong Kong, were accepted to join following a rigorous review and selection by our four academic departments. The Science Summer Camp is designed to offer outstanding prospective PhD candidates to experience student life at CityU and to get a taste of our excellent research education in science.
 
