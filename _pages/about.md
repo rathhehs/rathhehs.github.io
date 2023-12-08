@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome!
 
 My name is Houshi He, currently pursuing a Bachelor's degree in Statistics. 
 
