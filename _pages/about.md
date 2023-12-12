@@ -17,7 +17,7 @@ My passion lies in the fields of data mining and data science, and I am also int
 
 I used to work at [Tencent](https://www.tencent.com/en-us/) and [General Eletric](https://www.ge.com/) as an intern.
 
-You can find more from my [CV](http://rathhehs.github.io/files/CV_Houshi_He.pdf), and you can contact me at: [stat.houshi@gmail.com](stat.houshi@gmail.com).
+You can find more from my [CV](http://rathhehs.github.io/files/Houshi_He.pdf), and you can contact me at: [stat.houshi@gmail.com](stat.houshi@gmail.com).
 
 <!-- Education
 ======
