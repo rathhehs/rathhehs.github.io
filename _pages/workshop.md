@@ -17,7 +17,7 @@ redirect_from:
 
 **2. [Science Summer Camp](https://www.cityu.edu.hk/csci/news-events/news-and-achievements/prospective-phd-applicants-engaged-through-science-summer-camp-2023)** (Full funded by [City University of Hong Kong](https://www.cityu.edu.hk/))
 
-The signature event of the College of Science attracted more than **1,300** enthusiastic applicants across all the continents, of which **52** campers who studied in Mainland China, Germany, Russia, Singapore, Vietnam, the UK, and Hong Kong, were accepted to join following a rigorous review and selection by our four academic departments. The Science Summer Camp is designed to offer outstanding prospective PhD candidates to experience student life at CityU and to get a taste of excellent research education in science.
+The signature event of the College of Science attracted more than **1,300** enthusiastic applicants across all the continents, of which **52** campers who studied in Mainland China, Germany, Russia, Singapore, Vietnam, the UK, and Hong Kong, were accepted to join following a rigorous review and selection by four academic departments. The Science Summer Camp is designed to offer outstanding prospective PhD candidates to experience student life at CityU and to get a taste of excellent research education in science.
 
 [Video Introduction](https://www.youtube.com/watch?v=VasSISuvbsk)
 
