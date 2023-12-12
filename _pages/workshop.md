@@ -13,7 +13,7 @@ redirect_from:
 
  We've developed Bianque Online Clinic, an AI-driven healthcare service leveraging artificial intelligence technology. As an affiliated department of hospitals, we offer online diagnosis and medical services. Using intelligent algorithm models, Bianque Online Clinic analyzes user-input symptoms and medical history to provide preliminary diagnostic results and medical recommendations. AI online healthcare is designed to complement traditional healthcare systems, combining with conventional diagnosis to deliver more comprehensive and convenient medical services to individuals.
 
- [**Project Results (Public)**](../files/hkustgz.pdf)
+ [Project Results (Public)](../files/hkustgz.pdf)
 
 **2. [Science Summer Camp](https://www.cityu.edu.hk/csci/news-events/news-and-achievements/prospective-phd-applicants-engaged-through-science-summer-camp-2023)** (Full funded by [City University of Hong Kong](https://www.cityu.edu.hk/))
 
