@@ -10,4 +10,4 @@ Tomorrow is a mystery, \
 but Today is a gift. \
 That is why it is called the present.
 
-———by Master Oogway from Kung Fu Panda
+———by [Master Oogway](https://kungfupanda.fandom.com/wiki/Oogway)
