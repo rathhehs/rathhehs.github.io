@@ -134,21 +134,3 @@ Read ten thousand books; travel ten thousand miles. I always gain a lot during m
     </div>
     <p> </p>
 </center>
-
-<center>
-    <img style = "
-        border-radius: 0.3125em;
-        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/t8.jpg" 
-        width = "40%">
-    <br>
-    <div style = "
-        color: orange;
-        border-bottom: 1px solid #d9d9d9;
-        display: inline-block;
-        color: #999;
-        padding: 2px;">
-        Milan, Italy (with my parents, love them lots!)
-    </div>
-    <p> </p>
-</center>
