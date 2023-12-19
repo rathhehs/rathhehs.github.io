@@ -35,7 +35,7 @@ predicting claim occurrences; assessed and compared the performance of these mod
 
 Key Word: [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [XGBoost](https://en.wikipedia.org/wiki/XGBoost), [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
 
-**Application of Propensity Score Matching for Intervention Effects Estimating**\
+**Application of Propensity Score Matching for Intervention Effects Estimating**
 
 • Selected confounding variables and extracted 2,000,000+ data by SQL; cleaned and processed data in Python.\
 • Applied logistic regression to calculate propensity score and predict exposure probability to create virtual control groups.\
