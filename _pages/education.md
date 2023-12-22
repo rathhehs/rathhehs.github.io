@@ -9,7 +9,7 @@ redirect_from:
 
 Bachelor of Science degree in Statistics from School of Mathematics at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024).
 
-Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023). ([Mitacs Globalink Research Internship (Full Funded)](https://www.mitacs.ca/our-programs/globalink-research-internship-students/))
+Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023). ([Mitacs Globalink Research Internship (Fully Funded)](https://www.mitacs.ca/our-programs/globalink-research-internship-students/))
 
 Diploma in Science from [Tianjin Yaohua High School](https://en.wikipedia.org/wiki/Yaohua_High_School) (09/2014-07/2020).
 
