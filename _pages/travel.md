@@ -22,7 +22,7 @@ Read ten thousand books; travel ten thousand miles. I always gain a lot during m
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Victoria, Canada (During Mitacs Globalink Research Internship (Full-Funded))
+        Victoria, Canada (During Mitacs Globalink Research Internship (Fully-Funded))
     </div>
     <p> </p>
 </center>
@@ -40,7 +40,7 @@ Read ten thousand books; travel ten thousand miles. I always gain a lot during m
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Banff National Park, Canada (During Mitacs Globalink Research Internship (Full-Funded))
+        Banff National Park, Canada (During Mitacs Globalink Research Internship (Fully-Funded))
     </div>
     <p> </p>
 </center>
@@ -58,7 +58,7 @@ Read ten thousand books; travel ten thousand miles. I always gain a lot during m
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Hong Kong, China (During Science Summer Camp (Full-Funded))
+        Hong Kong, China (During Science Summer Camp (Fully-Funded))
     </div>
     <p> </p>
 </center>
