@@ -42,4 +42,4 @@ Key Word: [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [X
 • Matched experimental groups and control groups; applied bucket matching to improve matching efficiency.\
 • Calculated the average treatment effect of exposure on the return rate of churned users.
 
-Key Word: [Propensity Score Matching](https://en.wikipedia.org/wiki/Propensity_score_matching)
+Key Word: [Propensity Score Matching](https://en.wikipedia.org/wiki/Propensity_score_matching), [PyMatch](https://github.com/benmiroglio/pymatch?tab=readme-ov-file)
