@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: ""
 permalink: /miscellaneous/
@@ -10,4 +10,4 @@ Tomorrow is a mystery, \
 but Today is a gift. \
 That is why it is called the present.
 
-———by [Master Oogway](https://kungfupanda.fandom.com/wiki/Oogway)
+———by [Master Oogway](https://kungfupanda.fandom.com/wiki/Oogway) -->

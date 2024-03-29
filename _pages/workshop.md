@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "Workshop"
 permalink: /workshop/
@@ -58,4 +58,4 @@ Relevant Information
         Tai Ping Shan in Hong Kong
     </div>
     <p> </p>
-</center>
+</center> -->
