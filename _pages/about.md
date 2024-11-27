@@ -13,9 +13,9 @@ About me
 
 My name is Houshi He, currently pursuing a Master's degree in Engineering Mathematics and Computational Science at Chalmers University of Technology (09/2024-06/2026). 
 
-My passion lies in the fields of data mining and statistical modelling, and I am also interested in causal inference.
+I enjoy mathematics but prefer its practical applications over purely theoretical aspects. Statistics fascinates me as it allows me to use mathematical tools to solve real-world problems, which I find incredibly rewarding. I am particularly interested in the intersection of statistics with other fields, such as AI/ML in computer science and biostatistics in biology. I've worked on related projects through internships and research, and my focus remains firmly rooted in statistics.
 
 
 Other Information
 ======
-I am a passionate traveler and sports enthusiast, deeply in love with football, basketball, and F1. Additionaly, I love the music of [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) and [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql). 
+I am a passionate traveler and sports enthusiast, deeply in love with football. I love football, and I love every football club, but most of all, I support my hometown team Tianjin Teda and the Chinese National Team.
