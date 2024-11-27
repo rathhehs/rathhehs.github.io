@@ -13,7 +13,7 @@ Bachelor of Science degree in Statistics from School of Mathematics at [Jilin Un
 
 Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023). ([Mitacs Globalink Research Internship (Fully Funded)](https://www.mitacs.ca/our-programs/globalink-research-internship-students/))
 
-Diploma in Science from [Tianjin Yaohua High School](https://en.wikipedia.org/wiki/Yaohua_High_School) (09/2014-07/2020).
+Diploma in Science from [Tianjin Yaohua High School](https://zh.wikipedia.org/wiki/%E5%A4%A9%E6%B4%A5%E5%B8%82%E8%80%80%E5%8D%8E%E4%B8%AD%E5%AD%A6) (09/2014-07/2020).
 
 Projects
 ======
