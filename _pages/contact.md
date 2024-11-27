@@ -12,7 +12,6 @@ author_profile: true
 **Mailing Address**: \
 Houshi He \
 Uppstigen 114 Rum 32\
-Gothenburg\
-Sweden\
+Gothenburg, Sweden\
 Post Code: 41280\
 Tel: (+46) 727-806-733
