@@ -45,6 +45,12 @@ Read ten thousand books; travel ten thousand miles. I always gain a lot during m
     <p> </p>
 </center>
 
+After coming to Europe to study, I developed a habit of watching football matches in different cities because the football atmosphere here is amazing. I've been to several cities and stadiums, but the Poland vs. Croatia match stands out the most for me.
+
+It was a home game for Poland, and I could only get a ticket for the Croatian fan section. With 58,000 people in the stadium supporting Poland, there were probably only around 400 Croatian supporters. I felt like the only Asian face in the crowd, standing with the Croatian fans to cheer for them.
+
+Since the police closely monitor away fans to prevent clashes, they kept checking with me to make sure I had the correct ticket. Hahahaha, it was definitely an interesting experience, and I’ll remember this experience for a long time.
+
 <center>
     <img style = "
         border-radius: 0.3125em;
