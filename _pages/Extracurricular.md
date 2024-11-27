@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Workshop"
-permalink: /workshop/
+title: "Extracurricular"
+permalink: /Extracurricular/
 author_profile: true
 redirect_from:
   - /resume
