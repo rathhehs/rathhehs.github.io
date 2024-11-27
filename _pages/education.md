@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-Master of Science degree in Engineering Mathematics and Computational Science at Chalmers University of Technology (09/2024-06/2026). ([Avancez Scholarship](https://www.chalmers.se/en/education/application-and-admission/scholarships-for-fee-paying-students/) holder)
+Master of Science degree in **Engineering Mathematics and Computational Science** at **Chalmers University of Technology** (09/2024-06/2026). ([Avancez Scholarship](https://www.chalmers.se/en/education/application-and-admission/scholarships-for-fee-paying-students/) holder)
 
-Bachelor of Science degree in Statistics from School of Mathematics at Jilin University (09/2020-06/2024).
+Bachelor of Science degree in **Statistics** from School of Mathematics at **Jilin University** (09/2020-06/2024).
 
-Research Assistant at University of Victoria under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023). (Mitacs Globalink Research Internship (Fully Funded))
+Research Assistant at **University of Victoria** under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023). (Mitacs Globalink Research Internship (Fully Funded))
 
-Diploma in Science from Tianjin Yaohua School (09/2014-07/2020).
+Diploma in Science from **Tianjin Yaohua School** (09/2014-07/2020).
 
 Projects
 ======

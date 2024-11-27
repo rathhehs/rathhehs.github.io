@@ -13,7 +13,13 @@ redirect_from:
 
  [Project Results (Public)](../files/hkustgz.pdf)
 
-**2. Science Summer Camp** (Fully funded by City University of Hong Kong)
+**2. Red Bird Challenge Camp** The Hong Kong University of Science and Technology (Guangzhou)
+
+ We've developed Bianque Online Clinic, an AI-driven healthcare service leveraging artificial intelligence technology. As an affiliated department of hospitals, we offer online diagnosis and medical services. Using intelligent algorithm models, Bianque Online Clinic analyzes user-input symptoms and medical history to provide preliminary diagnostic results and medical recommendations. AI online healthcare is designed to complement traditional healthcare systems, combining with conventional diagnosis to deliver more comprehensive and convenient medical services to individuals.
+
+ [Project Results (Public)](../files/hkustgz.pdf)
+
+**3. Science Summer Camp** (Fully funded by City University of Hong Kong)
 
 The signature event of the College of Science attracted more than **1,300** enthusiastic applicants across all the continents, of which **52** campers who studied in Mainland China, Germany, Russia, Singapore, Vietnam, the UK, and Hong Kong, were accepted to join following a rigorous review and selection by four academic departments. The Science Summer Camp is designed to offer outstanding prospective PhD candidates to experience student life at CityU and to get a taste of excellent research education in science.
 
