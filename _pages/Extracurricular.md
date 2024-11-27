@@ -7,11 +7,31 @@ redirect_from:
   - /resume
 ---
 
-**1. Red Bird Challenge Camp** The Hong Kong University of Science and Technology (Guangzhou)
+**1. Gothenburg Academic Lecture Interpretation**
 
- We've developed Bianque Online Clinic, an AI-driven healthcare service leveraging artificial intelligence technology. As an affiliated department of hospitals, we offer online diagnosis and medical services. Using intelligent algorithm models, Bianque Online Clinic analyzes user-input symptoms and medical history to provide preliminary diagnostic results and medical recommendations. AI online healthcare is designed to complement traditional healthcare systems, combining with conventional diagnosis to deliver more comprehensive and convenient medical services to individuals.
+I assisted [Prof. Essa](https://www.birmingham.ac.uk/staff/profiles/mechanical/essa-khamis) with settling into Gothenburg and organizing his academic lectures. I translated content on fatigue analysis, testing, and life extension, and provided real-time Chinese-English translation for him and the Chinese delegation, including a full day of consecutive interpretation.
 
- [Project Results (Public)](../files/hkustgz.pdf)
+This was my first time doing Chinese-English interpretation, and I was really nervous before starting. It was a high-pressure, full-day academic session with many technical terms. But I prepared well and completed the task successfully. 
+
+At the end, Prof. Essa and the Chinese delegation praised me, which made me feel very happy. It was really a rewarding and enjoyable experience.
+
+<center>
+    <img style = "
+        border-radius: 0.3125em;
+        box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+        src = "../images/Interpreting.jpg" 
+        width = "60%">
+    <br>
+    <div style = "
+        color: orange;
+        border-bottom: 1px solid #d9d9d9;
+        display: inline-block;
+        color: #999;
+        padding: 2px;">
+        Interpreting During Lecture
+    </div>
+    <p> </p>
+</center>
 
 **2. Red Bird Challenge Camp** (The Hong Kong University of Science and Technology (Guangzhou))
 
