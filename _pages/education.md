@@ -25,7 +25,7 @@ schizophrenia, post-traumatic stress disorder, and sicca syndrome, with p-values
 • Confirmed the robustness of results through tests for heterogeneity, horizontal pleiotropy, and sensitivity analyses, providing new insights into the connection between emotional states and sicca syndrome.
 
 Key Word: [Mendelian Randomization](https://en.wikipedia.org/wiki/Mendelian_randomization)\
-[Defense Presentation Slides](../files/MR.pdf)
+Additional info: [Defense Presentation Slides](../files/MR.pdf)
 
 
 **Bayesian Estimation of Covariance Matrices Using Aggregate Data**
