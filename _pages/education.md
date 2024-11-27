@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Master of Science degree in Engineering Mathematics and Computational Science at [Chalmers University of Technology](https://www.chalmers.se/en/) (09/2024-06/2026). ([Avancez Scholarship](https://www.chalmers.se/en/education/application-and-admission/scholarships-for-fee-paying-students/) holder)
+
 Bachelor of Science degree in Statistics from School of Mathematics at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024).
 
 Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023). ([Mitacs Globalink Research Internship (Fully Funded)](https://www.mitacs.ca/our-programs/globalink-research-internship-students/))
@@ -15,11 +17,21 @@ Diploma in Science from [Tianjin Yaohua High School](https://en.wikipedia.org/wi
 
 Projects
 ======
+**The Causal Effect Analysis of Emotional States and Sicca Syndrome**
+
+• Evaluated the potential causal relationship between sicca syndrome and emotional states using GWAS data.\
+• Used R language to apply five Mendelian randomization methods, establishing causal relationships between
+schizophrenia, post-traumatic stress disorder, and sicca syndrome, with p-values below 0.05.\
+• Confirmed the robustness of results through tests for heterogeneity, horizontal pleiotropy, and sensitivity analyses, providing new insights into the connection between emotional states and sicca syndrome.
+
+Key Word: [Mendelian Randomization](https://en.wikipedia.org/wiki/Mendelian_randomization)\
+[Defense Presentation Slides](../files/MR.pdf)
+
+
 **Bayesian Estimation of Covariance Matrices Using Aggregate Data**
 
 • Collected aggregate data from tests of different medications for similar symptoms; employed Bayesian hierarchical modeling to unveil correlations between indicators, such as age and height.\
-• Utilized the inverse Wishart distribution as the prior distribution for Σ, ensuring conjugacy in Bayesian statistics,
-facilitating the derivation of the posterior distribution form, and simplifying the computation of Bayesian inference.\
+• Utilized the inverse Wishart distribution as the prior distribution for Σ, ensuring conjugacy in Bayesian statistics, facilitating the derivation of the posterior distribution form, and simplifying the computation of Bayesian inference.\
 • Derived the likelihood function based on the prior distribution and available information.
 
 Key Word: [Bayesian Hierarchical Modeling](https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling)
