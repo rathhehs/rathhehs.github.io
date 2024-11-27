@@ -13,7 +13,7 @@ Read ten thousand books; travel ten thousand miles. I always gain a lot during m
     <img style = "
         border-radius: 0.3125em;
         box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-        src = "../images/Vic.jpg" 
+        src = "../images/tt.jpg" 
         width = "45%">
     <br>
     <div style = "
@@ -22,7 +22,7 @@ Read ten thousand books; travel ten thousand miles. I always gain a lot during m
         display: inline-block;
         color: #999;
         padding: 2px;">
-        Victoria, Canada (During Mitacs Globalink Research Internship (Fully-Funded))
+        With Jörgen Persson, Swedish Table Tennis World Champion (in Gothenburg)
     </div>
     <p> </p>
 </center>
