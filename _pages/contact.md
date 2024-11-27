@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Contact Information"
 permalink: /contact/
@@ -16,4 +16,4 @@ Jilin University\
 No. 2699 Qianjin Street \
 Changchun City, Jilin Province, China\
 Post Code: 130012\
-Tel: (+86) 431 - 85166214 -->
+Tel: (+86) 431 - 85166214

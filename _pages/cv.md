@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
@@ -11,4 +11,4 @@ Updated in December 2023
     <embed src="../files/Houshi_He.pdf">
         <p>This browser does not support PDFs. Please <a href="../files/Houshi_He.pdf">download the PDF</a> to view.</p>
     </embed>
-</object> -->
+</object>

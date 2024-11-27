@@ -1,4 +1,4 @@
-<!-- ---
+---
 permalink: /
 title: ""
 excerpt: "About me"
@@ -19,12 +19,13 @@ I used to work at [Tencent](https://www.tencent.com/en-us/) and [General Eletric
 
 You can find more from my [CV](http://rathhehs.github.io/files/Houshi_He.pdf), and you can contact me at: [stat.houshi@gmail.com](stat.houshi@gmail.com).
 
-<!-- Education
+
+Education
 ======
 Bachelor of Science degree in statistics from School of Mathematics at [Jilin University](https://www.jlu.edu.cn/) (09/2020-06/2024).
 
 Research Assistant at [University of Victoria](https://www.uvic.ca/) under the supervision of [Dr. Xuekui Zhang](https://ubcxzhang.github.io/) (08/2023-11/2023).
- -->
+
 
 Other Information
 ======
@@ -33,4 +34,4 @@ I am a passionate traveler and sports enthusiast, deeply in love with football, 
 
 Motto
 ======
-Grace under pressure. -->
+Grace under pressure.
