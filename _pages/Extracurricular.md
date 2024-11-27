@@ -19,9 +19,6 @@ The signature event of the College of Science attracted more than **1,300** enth
 
 [Video Introduction](https://www.youtube.com/watch?v=VasSISuvbsk)
 
-Relevant Information
--------
-
 <center>
     <img style = "
         border-radius: 0.3125em;
