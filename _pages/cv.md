@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-Updated in December 2023
+Updated in November 2024
 
 <object data="../files/Houshi_He.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="../files/Houshi_He.pdf">
