@@ -25,16 +25,6 @@ facilitating the derivation of the posterior distribution form, and simplifying 
 Key Word: [Bayesian Hierarchical Modeling](https://en.wikipedia.org/wiki/Bayesian_hierarchical_modeling)
 
 
-**Application of Machine Learning for Auto Insurance Pricing**
-
-• Collected and analyzed auto insurance claims data, incorporating factors such as the driver’s age, car age, brand, etc.\
-• Cleaned raw data to ensure accuracy and reliability in the analysis.\
-• Applied various ML methods including logistic regression, XGBoost, random forest, decision trees and K-NN for
-predicting claim occurrences; assessed and compared the performance of these models.\
-• Dealt with 500,000+ data; utilized various data science libraries, including Scikit-learn, NumPy and Pandas data frames.
-
-Key Word: [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning), [XGBoost](https://en.wikipedia.org/wiki/XGBoost), [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
-
 **Application of Propensity Score Matching for Intervention Effects Estimating**
 
 • Selected confounding variables and extracted 2,000,000+ data by SQL; cleaned and processed data in Python.\
