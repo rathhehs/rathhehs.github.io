@@ -7,13 +7,12 @@ author_profile: true
 
 **Name in Chinese**: 何厚石
 
-**Email**: stat.houshi@gmail.com 
+**Email**: houshi@chalmers.se 
 
 **Mailing Address**: \
 Houshi He \
-School of Mathematics\
-Jilin University\
-No. 2699 Qianjin Street \
-Changchun City, Jilin Province, China\
-Post Code: 130012\
-Tel: (+86) 431 - 85166214
+Uppstigen 114 Rum 32\
+Gothenburg\
+Sweden\
+Post Code: 41280\
+Tel: (+46) 727-806-733
