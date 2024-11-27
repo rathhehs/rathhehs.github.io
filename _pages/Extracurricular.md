@@ -11,7 +11,7 @@ redirect_from:
 
 I assisted [Prof. Essa](https://www.birmingham.ac.uk/staff/profiles/mechanical/essa-khamis) with settling into Gothenburg and organizing his academic lectures. I translated content on fatigue analysis, testing, and life extension, and provided real-time Chinese-English translation for him and the Chinese delegation, including a full day of consecutive interpretation.
 
-This was my first time doing Chinese-English interpretation, and I was kind of nervous before starting. It was a high-pressure, full-day academic session with many technical terms. But I prepared well and completed the task successfully. 
+This was my first time doing Chinese-English interpretation, and I was kind of nervous before starting. It was really a high-pressure, full-day academic session with many technical terms. But I prepared well and completed the task successfully. 
 
 At the end, Prof. Essa and the Chinese delegation praised me, which made me feel very happy. It was really a rewarding and enjoyable experience.
 
