@@ -13,7 +13,9 @@ About me
 
 My name is Houshi He, currently pursuing a Master's degree in Engineering Mathematics and Computational Science at Chalmers University of Technology (09/2024-06/2026). 
 
-I enjoy mathematics but prefer its practical applications over purely theoretical aspects. Statistics fascinates me as it allows me to use mathematical tools to solve real-world problems, which I find incredibly rewarding. I am particularly interested in the intersection of statistics with other fields, such as AI/ML in computer science and biostatistics in biology. I've worked on related projects through internships and research, and my focus remains firmly rooted in statistics.
+I enjoy mathematics but prefer its practical applications over purely theoretical aspects. Statistics fascinates me as it allows me to use mathematical tools to solve real-world problems, which I find incredibly rewarding. 
+
+I am particularly interested in the intersection of statistics with other fields, such as AI/ML in computer science and biostatistics in biology. I've worked on related projects through internships and research, and my focus remains firmly rooted in statistics.
 
 
 Other Information
