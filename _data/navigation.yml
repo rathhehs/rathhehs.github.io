@@ -10,15 +10,12 @@ main:
   - title: "Professional"
     url: /professional/
 
-  - title: "Workshop"
-    url: /workshop/
-
+  - title: "Extracurricular"
+    url: /Extracurricular/
+    
   - title: "Travel"
     url: /travel/
 
-  - title: "Miscellaneous"
-    url: /miscellaneous/
-    
   - title: "Contact"
     url: /contact/
 #  - title: "Publications"
