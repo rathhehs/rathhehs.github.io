@@ -20,4 +20,4 @@ I am particularly interested in the intersection of statistics with other fields
 
 Other Information
 ======
-I am a passionate traveler and sports enthusiast, deeply in love with football. I love football, and I love every football club, but most of all, I support my hometown team Tianjin Teda and the Chinese National Team.
+I am a passionate traveler and sports enthusiast, deeply in love with football. I love football, and I love every football club, but most of all, I support my hometown team Tianjin Teda.
