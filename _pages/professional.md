@@ -32,7 +32,7 @@ redirect_from:
     <p> </p>
 </center>
 
-**[General Eletric](https://www.ge.com/)**
+**[General Electric](https://www.ge.com/)**
 
 **Project Consultant, Hydro Center of Excellence**
 
