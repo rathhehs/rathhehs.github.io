@@ -9,7 +9,7 @@ redirect_from:
 
 **[Tencent](https://www.tencent.com/en-us/)**
 
-**Data Analyst Intern, Data Platform Department**
+**Data Science Intern, Data Platform Department**
 
 • Leveraged SQL and Python to collect and analyze key data metrics related to retention, user activity, etc. from specific gaming apps; modeled player characteristics and behaviors, enabling targeted insights and strategic decision-making.\
 • Designed A/B tests based on North Star metrics to foster product iteration and enhance user quantity and quality; performed hypothesis testing to check the statistical significance of the results.\
